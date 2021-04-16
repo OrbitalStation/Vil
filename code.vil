@@ -1,0 +1,5 @@
+fun main :: void -> void
+    let a :: i32
+    let b :: i16
+    let c :: i8
+    a = b + c
